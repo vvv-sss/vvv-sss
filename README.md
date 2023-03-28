@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Volodymyr</h1>
-<h3 align="center">A committed frontend developer hailing from the beautiful city of Odesa, Ukraine.</h3>
+<h3 align="center">A frontend developer hailing from the beautiful city of Odesa, Ukraine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvv-sss&label=Profile%20views&color=0e75b6&style=flat" alt="vvv-sss" /> </p>
 
-<img src="https://gaper.io/wp-content/uploads/2022/02/freelance-software-developer.webp" style="border-radius: 16px">
+<img src="banner.png">
 
 - 👍 I'm confident in **HTML, CSS, SASS, Javascript, Typescript, JQuery, React, Angular, Redux, Recoil**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvv-sss?tab=repositories](https://github.com/vvv-sss?tab=repositories)
 
-- 📫 Get in touch **serbulenko1volodymyr@gmail.com**
+- 📫 Get in touch with me **serbulenko1volodymyr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

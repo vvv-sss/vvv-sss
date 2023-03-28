@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvv-sss&label=Profile%20views&color=0e75b6&style=flat" alt="vvv-sss" /> </p>
 
-<img src="_banner_.png">
+<img src="__banner__.png">
 
 - 👍 I'm confident in **HTML, CSS, SASS, Javascript, Typescript, JQuery, React, Angular, Redux, Recoil, Git, Figma**
 

@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvv-sss&label=Profile%20views&color=0e75b6&style=flat" alt="vvv-sss" /> </p>
 
-<img src="banner.png">
+<img src="_banner_.png">
 
-- 👍 I'm confident in **HTML, CSS, SASS, Javascript, Typescript, JQuery, React, Angular, Redux, Recoil**
+- 👍 I'm confident in **HTML, CSS, SASS, Javascript, Typescript, JQuery, React, Angular, Redux, Recoil, Git, Figma**
 
 - 🌱 I’m currently learning **Node.js**
 

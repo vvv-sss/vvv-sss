@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Volodymyr</h1>
-<h3 align="center">A frontend developer hailing from the beautiful city of Odesa, Ukraine.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvv-sss&label=Profile%20views&color=0e75b6&style=flat" alt="vvv-sss" /> </p>
 
 <img src="banner.png">

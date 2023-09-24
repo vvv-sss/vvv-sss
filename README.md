@@ -2,7 +2,7 @@
 
 <img src="__banner__.png">
 
-- 👍 I'm confident in **HTML, CSS, SASS, Javascript, Typescript, JQuery, React, Angular, Redux, Recoil, Git, Figma**
+- 👍 I'm confident in **HTML, CSS, Tailwind, Javascript, Typescript, React, React Native, React Query, React Hook Form, React Styled Components, Redux, Redux Toolkit, Rematch, Git, Figma**
 
 - 🌱 I’m currently learning **Node.js**
 
